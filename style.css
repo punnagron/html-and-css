@@ -1,0 +1,93 @@
+body {
+    background: url(https://wallpapers.com/images/hd/white-paper-background-nly40icrmtc0gry9.jpg);
+    background-size: cover;
+
+    }
+  header {
+      text-align: center;
+      margin: auto;
+
+  }
+  .table,th,td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      text-align: center;
+      width: 90px;
+  }
+
+  .A{
+    color: rgb(248, 0, 12);
+  }
+
+  .B{
+    color: rgb(222, 247, 2);
+  }
+  .C{
+    color: rgb(0, 255, 242);
+  }
+.D{
+    color: deepskyblue;
+}
+.E{
+   color: rgb(76, 0, 255);
+}
+.F{
+  color:  rgb(255, 0, 255);
+}
+.G{
+    color:  rgb(226, 140, 198);
+}
+.H{
+    color:rgb(121, 212, 243);
+}
+.I{
+    color: darkseagreen;
+}
+.J{
+    color: deepskyblue;
+}
+.K{
+    background-color: #dba1ec; text-align: center; width:200px;
+}
+.L{
+    color: aliceblue;
+}
+.M{
+    color:aliceblue;
+}
+.N{
+    background-color: #75e2f5; width: 350px;
+}
+.O{
+    font-size: 30px;
+}
+.P{
+    font-size: 20px;
+}
+.Q{
+    font-size: 20px;
+}
+.R{
+    font-size: 20px;
+}
+.S{
+    background-color: aliceblue;
+}
+.T{
+    background-color: rgb(249, 247, 247);
+}
+.U{
+    background-color: rgb(255, 253, 253);
+}
+.V{
+    background-color: rgb(254, 251, 251);
+}
+.W{
+    background-color: rgb(254, 251, 251)
+}
+.X{
+    background-color: rgb(254, 251, 251)
+}
+.Y{
+    background-color: rgb(251, 245, 245);
+}
